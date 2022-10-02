@@ -17,4 +17,5 @@ fn main() {
 
     println!("{}", page::post::post_one::one_content());
     println!("{}", page::post::post_two::two_content());
+    println!("{}", page::post::post_two::content_with_image());
 }
